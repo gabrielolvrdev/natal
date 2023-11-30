@@ -9,8 +9,8 @@
 
 
 Site de Natal 
-<img src="img/pagprincipal.jpg" alt="Pagina Principal">
-<img src="img/jogo.jpg" alt="Pagina jogo">
+<img src="pagprincipal.jpg" alt="Pagina Principal">
+<img src="jogo.jpg" alt="Pagina jogo">
 
 
 Conforme solicitado, segue o projeto de Natal finalizado, Não consegui entregar o projeto que me pediram em um primeiro momento pois realemnte sei o básico da programação, e estou disposto a aprender mais caso me deêm essa oportunidade
